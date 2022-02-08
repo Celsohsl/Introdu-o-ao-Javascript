@@ -18,6 +18,6 @@ function changeCurrentNumberColor () {
     if (count < 0) {
       document.getElementById('currentNumber').style.color = 'red'
     } else {
-      document.getElementById('currentNumber').style.color = 'black'
+      document.getElementById('currentNumber').style.color = 'gray'
     }
   }
