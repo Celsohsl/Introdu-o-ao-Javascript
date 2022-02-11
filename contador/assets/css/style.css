@@ -14,7 +14,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: linear-gradient(0deg, rgba(161,165,166,1) 0%, rgba(0,63,99,1) 100%);
+    background: linear-gradient(0deg, rgb(5, 146, 64) 0%, rgba(0,63,99,1) 100%);
 }
 
 h1 {
@@ -42,7 +42,7 @@ span{
     height: 300px;
     background-color: #003F63;
     border-radius: 50%;
-    box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 0px 10px 0px rgba(5, 229, 245, 0.5);
 }
 
 button {
