@@ -1,9 +1,7 @@
 # Introdução ao Javascript
 
-Projetos Referente ao Bootcamp Digital Innovation One - Inter Frontend Developer.
+Projeto Referente ao Bootcamp Digital Innovation One - Inter Frontend Developer.
 
-São 2 projetos desenvolvidos através da linguagem JavaScript.
+Projeto desenvolvido como exercício prático, através da linguagem JavaScript.
 #
-- Contador
-
-- To-do list
+- Contador 
